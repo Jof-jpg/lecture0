@@ -2,3 +2,18 @@ h1 {
   color: blue;
   text-align: center;
 }
+
+p {
+  font-family: Arial, sans-serif;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+div {
+  background-color: darkblue;
+  width: 875px;
+  height: 500px;
+  margin: 30px;
+  padding: 50px;
+  border: 10px solid skyblue;
+}
